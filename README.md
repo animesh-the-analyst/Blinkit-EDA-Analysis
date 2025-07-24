@@ -39,3 +39,15 @@ To analyze Blinkit’s sales data to uncover:
 - **Language**: Python  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Notebook**: Jupyter (.ipynb)
+
+##  Conclusion
+
+This project demonstrates how EDA techniques and visual storytelling can reveal business insights, helping optimize product offerings and outlet strategies in an online retail environment like Blinkit.
+
+---
+
+## 📬 Contact
+
+**Animesh M**  
+[LinkedIn](https://linkedin.com/in/animesh-manimaran-23379b265)  
+📧 cranimesh@gmail.com
